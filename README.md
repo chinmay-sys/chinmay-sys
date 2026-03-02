@@ -5,7 +5,7 @@
 
 *"I solve puzzles faster than most people unlock their phones and pretend sleep isn’t real."*
 
-<img src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" width="400"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvferep9ZLWYVo_8gZwUKbwpnz6jDF6pmuoQ&s" width="400"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chinmay-cp-079873281/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:chinmaycp13@gmail.com)
