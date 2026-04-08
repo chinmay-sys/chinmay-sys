@@ -20,7 +20,7 @@ I focus on building **real-world applications**, not tutorial clones.
 - ⚡ I design **scalable full-stack systems**
 - 🧠 Interested in **AI + system design + real-time architecture**
 - 🗺️ I enjoy working with **maps, tracking, and live data systems**
-- 🏏 Sports analytics enthusiast (Cricket + Football)
+- 🏏 Sports analytics enthusiast (Cricket + Kabaddi + Football)
 
 ---
 
